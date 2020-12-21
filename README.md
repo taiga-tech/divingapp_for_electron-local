@@ -27,10 +27,9 @@
 
 ```shell
 % git clone https://github.com/taiga-tech/divingapp_for_electron-local.git
-% cd divingapp_electron_for_local
+% cd divingapp_electron_for_local/src
 
 # お試し起動の場合
-% cd src
 % npm install && npm start
 
 # アプリビルド
