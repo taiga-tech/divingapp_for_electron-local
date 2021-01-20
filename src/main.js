@@ -10,7 +10,7 @@ function createWindow () {
     }
   })
 
-  win.loadURL('http://35.171.45.193/')
+  win.loadURL('http://3.88.45.99/')
 }
 
 app.on('ready', createWindow)
