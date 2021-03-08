@@ -1,10 +1,10 @@
 <h1 align="center">Divingapp for Electron</h1>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/67569270/102722777-c2ce3e00-4346-11eb-8d7f-291a6f651e6b.png" width="70px">
-  <img src="https://user-images.githubusercontent.com/67569270/102721953-4d13a380-4341-11eb-9d04-d5f1668a2db7.png" width="120px">
-<img src="https://user-images.githubusercontent.com/67569270/102721957-4f75fd80-4341-11eb-9d6e-302c8fb8e733.png" width="120px">
-  <img src="https://user-images.githubusercontent.com/67569270/102721168-839aef80-433c-11eb-9a0f-b32accd56384.png" width="60px">
+ <img src="https://user-images.githubusercontent.com/67569270/102722777-c2ce3e00-4346-11eb-8d7f-291a6f651e6b.png" alt="laravel" width="70px">
+  <img src="https://user-images.githubusercontent.com/67569270/102721953-4d13a380-4341-11eb-9d04-d5f1668a2db7.png" alt="node" width="120px">
+<img src="https://user-images.githubusercontent.com/67569270/102721957-4f75fd80-4341-11eb-9d6e-302c8fb8e733.png" alt="npm" width="120px">
+  <img src="https://user-images.githubusercontent.com/67569270/102721168-839aef80-433c-11eb-9a0f-b32accd56384.png" alt="electron" width="60px">
 </div>
 
 
@@ -14,7 +14,7 @@
 もう少しネイティブアプリ感を出していけるように勉強していきます。
 > 作成時間 30分
 
-<p align="center"><img src="https://user-images.githubusercontent.com/67569270/102720950-d2e02080-433a-11eb-9152-4e99f1911aac.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/67569270/102720950-d2e02080-433a-11eb-9152-4e99f1911aac.png" alt="sc" width="400"></p>
 
 ## 開発環境
 |Language|Version|
